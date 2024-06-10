@@ -1,0 +1,16 @@
+{
+  "name": "micro-batching-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@smilexx2/micro-batching-library": "1.0.6"
+  },
+  "type": "module"
+}
