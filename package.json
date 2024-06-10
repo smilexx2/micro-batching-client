@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@smilexx2/micro-batching-library": "1.0.6"
+    "@smilexx2/micro-batching-library": "1.0.8"
   },
   "type": "module"
 }
